@@ -1,0 +1,29 @@
+_repo: Ballads-of-Romance-and-ChivalryPopular-Ballads-of-the-Olden-Times---First-Series_20469
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sidgwick, Frank
+    alias: Steward, B. D.
+    birthdate: 1879
+    deathdate: 1939
+    gutenberg_agent_id: '9317'
+    url: http://www.gutenberg.org/2009/agents/9317
+description: ''
+gutenberg_issued: '2007-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20469'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ballads, English -- Texts'
+- !lcc 'PR'
+title: 'Ballads of Romance and Chivalry
+
+  Popular Ballads of the Olden Times - First Series'
+url: http://www.gutenberg.org/ebooks/20469
